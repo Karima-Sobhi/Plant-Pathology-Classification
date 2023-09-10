@@ -1,7 +1,7 @@
-# Plant-Pathology-Classification
-## Final project of computer vision summer training held by ApplAI (7 August 2023 to September 4 2023)
+# Plant-Pathology-Image-Classification
+Final project of computer vision summer training held by ApplAI (7 August 2023 to September 4 2023)
 
-## Given a photo of an apple leaf, can you accurately assess its health? his project will challenge you to distinguish between leaves which are healthy, those which are infected with apple rust, those that have apple scab, and those with more than one disease.
+Given a photo of an apple leaf, can you accurately assess its health? his project will challenge you to distinguish between leaves which are healthy, those which are infected with apple rust, those that have apple scab, and those with more than one disease.
 
 ### Before Running the Code Deployment you need to install first 
 ### on your cmd following libraries:
